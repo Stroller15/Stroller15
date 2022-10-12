@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on portfolio site.<br>🌱 Exploring Technical world.<br>⚡ In my free time I solve problems on Leetcode and read tech articles.<br>📫 How to reach me: skv635122@gmail.com
 
+[![@stroller_15's Holopin board](https://holopin.me/stroller_15)](https://holopin.io/@stroller_15)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-verma-314285184) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Verma_shubham9) 
