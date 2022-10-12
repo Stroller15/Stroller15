@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on portfolio site.<br>🌱 Exploring Technical world.<br>⚡ In my free time I solve problems on Leetcode and read tech articles.<br>📫 How to reach me: skv635122@gmail.com
+🔭 I’m currently working on portfolio site.<br>🌱 Exploring Technical world.<br>⚡ In my free time I solve problems on Leetcode and read tech articles.<br>📫 How to reach me: skv635122@gmail.com <br> 😎 This is collection of my digital reward as badge.
+
 
 [![@stroller_15's Holopin board](https://holopin.me/stroller_15)](https://holopin.io/@stroller_15)
 
