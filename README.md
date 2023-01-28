@@ -1,6 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on Myself.<br>🌱 Exploring Technical world.<br>⚡ In my free time I solve problems on Leetcode and read tech articles.<br>📫 How to reach me: skv635122@gmail.com <br> 😎 This is collection of my digital reward as badge ⬇️.
-
+                                                   <h1>Hi 👋 I am Shubham👨‍💻!<h1/>
 
 [![@stroller_15's Holopin board](https://holopin.me/stroller_15)](https://holopin.io/@stroller_15)
 
