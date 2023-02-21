@@ -2,6 +2,9 @@
 
 [![@stroller_15's Holopin board](https://holopin.me/stroller_15)](https://holopin.io/@stroller_15)
 
+[![Shubham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Stroller15&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/Stroller15/github-readme-activity-graph)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-verma-314285184) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Verma_shubham9) 
 
