@@ -1,6 +1,6 @@
  # Hey!! Great to see you here! 👋
 
-[![@stroller_15's Holopin board](https://holopin.me/stroller_15)](https://holopin.io/@stroller_15)
+<!-- [![@stroller_15's Holopin board](https://holopin.me/stroller_15)](https://holopin.io/@stroller_15) -->
 
 [![Shubham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Stroller15&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/Stroller15/github-readme-activity-graph)
 
