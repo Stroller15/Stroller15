@@ -1,4 +1,8 @@
- # Hey!! Great to see you here! 👋
+<!--  # Hey!! Great to see you here! 👋 -->
+ <div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="600" />
+</div> 
+<br>
 
 <!-- [![@stroller_15's Holopin board](https://holopin.me/stroller_15)](https://holopin.io/@stroller_15) -->
 
