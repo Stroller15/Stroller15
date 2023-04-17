@@ -1,9 +1,8 @@
- # Hey!! Great to see you here! 👋
 
 [![Shubham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Stroller15&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/Stroller15/github-readme-activity-graph)
+<hr>
 
-
-## 🌐 Socials:
+### <p align="center">🌐 Socials</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham6351/">
@@ -16,36 +15,19 @@
 
 <hr>
 
-## ⚡ Tech Stack
+### <p align="center">⚡Technical Skills & Tools</p>
 
-### 🚀 Languages
-
-
-  <a href="https://skillicons.dev">
+<p align="center">
+  <a href="[https://skillicons.dev](https://twitter.com/Verma_shubham9)">
     <img src="https://skillicons.dev/icons?i=cpp,java,c,javascript,html,css,typescript" />
   </a>
-
-
-### 🧩 Libraries & Framework
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,redux,materialui,nodejs,sass,nextjs,express,tailwind&theme=light" />
+   <a href="[https://skillicons.dev](https://twitter.com/Verma_shubham9)">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,redux,materialui,nodejs,sass,nextjs,express,mongodb,tailwind&theme=light" />
   </a>
-
-
-### ⭐ Database
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-  </a>
-
-
-### 🧑🏻‍💻 Tools & Platform
-
-  <a href="https://skillicons.dev">
+ <a href="[https://skillicons.dev](https://twitter.com/Verma_shubham9)">
     <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,netlify,vercel,vite,replit," />
   </a>
-
+</p>
 
 ### 💻 Workspace
 
