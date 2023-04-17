@@ -18,14 +18,14 @@
 ### <p align="center">⚡Technical Skills & Tools</p>
 
 <p align="center">
-  <a href="[https://skillicons.dev](https://twitter.com/Verma_shubham9)">
-    <img src="https://skillicons.dev/icons?i=cpp,java,c,javascript,html,css,typescript" />
+  <a href="https://twitter.com/Verma_shubham9">
+    <img src="https://skillicons.dev/icons?i=cpp,java,c,javascript,html,css,typescript&perline=7" />
   </a>
-   <a href="[https://skillicons.dev](https://twitter.com/Verma_shubham9)">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,redux,materialui,nodejs,sass,nextjs,express,mongodb,tailwind&theme=light" />
+   <a href="https://twitter.com/Verma_shubham9">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,redux,materialui,nodejs,sass,nextjs,express,mongodb,tailwind&theme=light&perline=10" />
   </a>
- <a href="[https://skillicons.dev](https://twitter.com/Verma_shubham9)">
-    <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,netlify,vercel,vite,replit," />
+ <a href="https://twitter.com/Verma_shubham9">
+    <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,netlify,vercel,vite,replit&perline=8" />
   </a>
 </p>
 
