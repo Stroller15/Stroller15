@@ -12,7 +12,6 @@
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
-
 <hr>
 
 ### <p align="center">⚡Technical Skills & Tools</p>
