@@ -1,7 +1,13 @@
+<!-- Header Gif  -->
+![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
-[![Shubham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Stroller15&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/Stroller15/github-readme-activity-graph)
-<hr>
 
+<!-- Hactoberfest badge  -->
+### Some digital rewards of hactoberfest
+[![An image of @stroller_15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stroller_15)](https://holopin.io/@stroller_15)
+
+
+<!-- My Socials  -->
 ### <p align="center">🌐 Socials</p>
 
 <p align="center">
@@ -14,6 +20,7 @@
 </p>
 <hr>
 
+<!-- My Technical Skills -->
 ### <p align="center">⚡Technical Skills & Tools</p>
 
 <p align="center">
@@ -28,11 +35,13 @@
   </a>
 </p>
 
+<!-- My Work Station  -->
 ### 💻 Workspace
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+<!-- Statics of github repo -->
 ## 📈 Stats
 
 <p align="center">
@@ -40,7 +49,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Stroller15&hide_border=true&theme=radical" />
 </p>
 
-
+<!-- Most Language Used -->
 ## 🔝 Most used languages
 <p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stroller15&layout=compact&hide_border=true&theme=radical" />
