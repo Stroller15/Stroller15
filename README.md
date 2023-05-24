@@ -97,3 +97,4 @@
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stroller15&layout=compact&hide_border=true&theme=radical" />
 </p>
 
+[![Shubham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Stroller15&theme=dracula)](https://github.com/Stroller15/github-readme-activity-graph)
