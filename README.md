@@ -30,6 +30,9 @@
   <a href="https://linktr.ee/stroller_15?ltsid=5cec4d6b-071f-4009-bdee-4ca434">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
+ <a href="mailto:shubhamverma6351@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
 </p>
 
 
