@@ -98,3 +98,7 @@
 </p>
 
 [![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stroller15&theme=rogue)](https://github.com/Stroller15/github-readme-activity-graph)
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/{Stroller15}/count.svg)
