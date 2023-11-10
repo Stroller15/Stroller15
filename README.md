@@ -6,7 +6,8 @@
 
 <br>
 
-![Blue Geometric Illustration Graphic Designer LinkedIn Banner](https://github.com/Stroller15/Stroller15/assets/84174011/d4469979-0bd1-4b46-ad5e-9c9a45cc964d)
+![Blue Geometric Illustration Graphic Designer LinkedIn Banner (1)](https://github.com/Stroller15/Stroller15/assets/84174011/5580b735-0db3-44e3-a2a4-0c8454abd463)
+
 
 <!--![Gif-image](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)->
 
