@@ -37,7 +37,7 @@
 </p>
 
 <hr>
-<br>
+
 
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
@@ -63,13 +63,12 @@
 <!-- My Work Station  -->
 
 ## 💻 Workspace
+
 ![macos](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
-
-
-
+<hr>
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
 
@@ -103,6 +102,8 @@
 <p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stroller15&layout=compact&hide_border=true&theme=radical" />
 </p>
+
+<hr>
 
 [![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stroller15&theme=rogue)](https://github.com/Stroller15/github-readme-activity-graph)
 
