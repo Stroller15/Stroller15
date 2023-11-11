@@ -8,6 +8,12 @@
 
 ![Blue Geometric Illustration Graphic Designer LinkedIn Banner (1)](https://github.com/Stroller15/Stroller15/assets/84174011/5580b735-0db3-44e3-a2a4-0c8454abd463)
 
+ <p align="center">
+  <a href="https://peerlist.io/heyshubham">
+    <img src="https://img.shields.io/badge/Peerlist-00AA45.svg?style=for-the-badge&logo=Peerlist&logoColor=white" alt="Peerlist">
+  </a>
+</p>
+
 
 <!--![Gif-image](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)->
 
