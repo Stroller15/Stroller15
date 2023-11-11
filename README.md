@@ -20,25 +20,31 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <hr>
 
- ### 🌐 Socials
+ ### 🌐 Connect with me 
 
-<p align="center">
+ <p align="center">
   <a href="https://www.linkedin.com/in/a-shubham-verma/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
- <a href="https://twitter.com/shubhamvtwt">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  &nbsp;
+  <a href="https://twitter.com/shubhamvtwt">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-<!--    <a href="https://leetcode.com/Stroller_15/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a> -->
- <a href="mailto:shubhamverma6351@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
+  &nbsp;
+  <a href="https://github.com/Stroller15">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;
+   <a href="https://www.instagram.com/shubham.yml/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+   </a>
+   &nbsp;
+   <a href="https://discordapp.com/users/771698347794497539">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
 <hr>
-
 
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
