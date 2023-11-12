@@ -2,15 +2,13 @@
 <!--- -- Main headder with gif ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-### 🌟𝑯𝒆𝒍𝒍𝒐 𝒘𝒐𝒓𝒍𝒅! 👋 𝑰 𝒂𝒎 𝑺𝒉𝒖𝒃𝒉𝒂𝒎, 𝒂 𝒇𝒖𝒍𝒍 𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓. 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒕𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝒘𝒐𝒓𝒍𝒅!
-
+<h1> 🌟𝑯𝒆𝒍𝒍𝒐 𝒘𝒐𝒓𝒍𝒅! 👋 𝑰 𝒂𝒎 𝑺𝒉𝒖𝒃𝒉𝒂𝒎, 𝒂 𝒇𝒖𝒍𝒍 𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓. 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒕𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝒘𝒐𝒓𝒍𝒅! </h1>
 
 Greetings, fellow humans and future AI overlords! As I stand on the precipice of graduating from the hallowed halls of computer science, I can't help but feel like a caffeinated code ninja ready to unleash a legion of bug-free software upon the world. They say laughter is the best medicine, but I'm here to prove that a well-written code comment can also do wonders for the soul. 
 
 Feel open to strike up conversations about anything tech-related or explore potential collaborations on projects. My virtual door is always open for engaging discussions and joint coding ventures!
 
 #### Goal - Be in the top 1% in whatever I am doing.
-
 
  <p align="center">
   <a href="https://peerlist.io/heyshubham">
@@ -79,13 +77,13 @@ Feel open to strike up conversations about anything tech-related or explore pote
 <hr>
 <!-- My Work Station  -->
 
-## 💻 Workspace:
+<!--## 💻 Workspace:
 
 ![macos](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
-<hr>
+<hr> -->
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
 
