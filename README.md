@@ -30,7 +30,7 @@ Feel open to strike up conversations about anything tech-related or explore pote
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <hr>
 
- ### 🌐 Connect with me;
+ ### 🌐 Connect with me:
 
  <p align="center">
   <a href="https://www.linkedin.com/in/a-shubham-verma/">
@@ -62,7 +62,7 @@ Feel open to strike up conversations about anything tech-related or explore pote
 <!--- -- Technical bages ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
- ### ⚡ Technical Skills & Tools
+ ### ⚡ Technical Skills & Tools:
 
 <p align="center">
   <a href="https://twitter.com/Verma_shubham9">
@@ -79,7 +79,7 @@ Feel open to strike up conversations about anything tech-related or explore pote
 <hr>
 <!-- My Work Station  -->
 
-## 💻 Workspace
+## 💻 Workspace:
 
 ![macos](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -103,7 +103,7 @@ Feel open to strike up conversations about anything tech-related or explore pote
 <!--- -- Statics of repo ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-### 📈 Stats
+### 📈 Stats:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Stroller15&show_icons=true&hide_border=true&theme=radical" />
@@ -115,7 +115,7 @@ Feel open to strike up conversations about anything tech-related or explore pote
 <!--- -- Most language used ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-### 🔝 Most used languages
+### 🔝 Most used languages:
 <p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stroller15&layout=compact&hide_border=true&theme=radical" />
 </p>
