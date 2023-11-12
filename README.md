@@ -9,7 +9,7 @@ Greetings, fellow humans and future AI overlords! As I stand on the precipice of
 
 Feel open to strike up conversations about anything tech-related or explore potential collaborations on projects. My virtual door is always open for engaging discussions and joint coding ventures!
 
-#### Goal - Be in the top 1% in whatever I am doing.
+#### Goal - *Be in the top 1% in whatever I am doing.*
 
  <p align="center">
   <a href="https://peerlist.io/heyshubham">
