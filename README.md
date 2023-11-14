@@ -28,6 +28,28 @@ Feel open to strike up conversations about anything tech-related or explore pote
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Socials ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Technical bages ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+ ### ⚡ Technical Skills & Tools:
+
+<p>
+  <a href="https://twitter.com/Verma_shubham9">
+    <img src="https://skillicons.dev/icons?i=cpp,java,c,javascript,html,css,typescript,react,bootstrap,redux,materialui,nodejs,sass,nextjs,express,mongodb,tailwind,github,git,postman,vscode,netlify,vercel,vite,replit" />
+  </a>
+<!--    <a href="https://twitter.com/Verma_shubham9">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,redux,materialui,nodejs,sass,nextjs,express,mongodb,tailwind&theme=light" />
+  </a>
+ <a href="https://twitter.com/Verma_shubham9">
+    <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,netlify,vercel,vite,replit" />
+  </a> -->
+</p>
+
 <hr>
 
  ### 🌐 Connect with me:
@@ -54,27 +76,7 @@ Feel open to strike up conversations about anything tech-related or explore pote
   </a>
 </p>
 
-<hr>
 
-<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Technical bages ----------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
- ### ⚡ Technical Skills & Tools:
-
-<p align="center">
-  <a href="https://twitter.com/Verma_shubham9">
-    <img src="https://skillicons.dev/icons?i=cpp,java,c,javascript,html,css,typescript,react,bootstrap,redux,materialui,nodejs,sass,nextjs,express,mongodb,tailwind,github,git,postman,vscode,netlify,vercel,vite,replit" />
-  </a>
-<!--    <a href="https://twitter.com/Verma_shubham9">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,redux,materialui,nodejs,sass,nextjs,express,mongodb,tailwind&theme=light" />
-  </a>
- <a href="https://twitter.com/Verma_shubham9">
-    <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,netlify,vercel,vite,replit" />
-  </a> -->
-</p>
 
 
 <!-- My Work Station  -->
