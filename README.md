@@ -2,7 +2,7 @@
 <!--- -- Main headder with gif ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<h2> 🌟𝑯𝒆𝒍𝒍𝒐 𝒘𝒐𝒓𝒍𝒅! 👋 𝑰 𝒂𝒎 𝑺𝒉𝒖𝒃𝒉𝒂𝒎, 𝒂 𝒇𝒖𝒍𝒍 𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓. 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒕𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝒘𝒐𝒓𝒍𝒅! </h2>
+<h2> Howdy, intergalactic pals! Shubham Verma here, your coding comrade! Let's tech-tango together!  </h2>
 
 
 Greetings, fellow humans and future AI overlords! As I stand on the precipice of graduating from the hallowed halls of computer science, I can't help but feel like a caffeinated code ninja ready to unleash a legion of bug-free software upon the world. They say laughter is the best medicine, but I'm here to prove that a well-written code comment can also do wonders for the soul.
@@ -66,7 +66,7 @@ Feel open to strike up conversations about anything tech-related or explore pote
 
 <p align="center">
   <a href="https://twitter.com/Verma_shubham9">
-    <img src="https://skillicons.dev/icons?i=cpp,java,c,javascript,html,css,typescript,react,bootstrap,redux,materialui,nodejs,sass,nextjs,express,mongodb,tailwind" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,c,javascript,html,css,typescript,react,bootstrap,redux,materialui,nodejs,sass,nextjs,express,mongodb,tailwind,github,git,postman,vscode,netlify,vercel,vite,replit" />
   </a>
 <!--    <a href="https://twitter.com/Verma_shubham9">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,redux,materialui,nodejs,sass,nextjs,express,mongodb,tailwind&theme=light" />
