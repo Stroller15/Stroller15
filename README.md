@@ -66,17 +66,17 @@ Feel open to strike up conversations about anything tech-related or explore pote
 
 <p align="center">
   <a href="https://twitter.com/Verma_shubham9">
-    <img src="https://skillicons.dev/icons?i=cpp,java,c,javascript,html,css,typescript" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,c,javascript,html,css,typescript,react,bootstrap,redux,materialui,nodejs,sass,nextjs,express,mongodb,tailwind" />
   </a>
-   <a href="https://twitter.com/Verma_shubham9">
+<!--    <a href="https://twitter.com/Verma_shubham9">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,redux,materialui,nodejs,sass,nextjs,express,mongodb,tailwind&theme=light" />
   </a>
  <a href="https://twitter.com/Verma_shubham9">
     <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,netlify,vercel,vite,replit" />
-  </a>
+  </a> -->
 </p>
 
-<hr>
+
 <!-- My Work Station  -->
 
 <!--## 💻 Workspace:
@@ -96,7 +96,6 @@ Feel open to strike up conversations about anything tech-related or explore pote
 [![An image of @stroller_15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stroller_15)](https://holopin.io/@stroller_15) -->
 
 
-<br>
 
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
