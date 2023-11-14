@@ -66,13 +66,13 @@ Feel open to strike up conversations about anything tech-related or explore pote
 
 <p align="center">
   <a href="https://twitter.com/Verma_shubham9">
-    <img src="https://skillicons.dev/icons?i=cpp,java,c,javascript,html,css,typescript&perline=7" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,c,javascript,html,css,typescript" />
   </a>
    <a href="https://twitter.com/Verma_shubham9">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,redux,materialui,nodejs,sass,nextjs,express,mongodb,tailwind&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,redux,materialui,nodejs,sass,nextjs,express,mongodb,tailwind&theme=light" />
   </a>
  <a href="https://twitter.com/Verma_shubham9">
-    <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,netlify,vercel,vite,replit&perline=8" />
+    <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,netlify,vercel,vite,replit" />
   </a>
 </p>
 
@@ -103,7 +103,7 @@ Feel open to strike up conversations about anything tech-related or explore pote
 <!--- -- Statics of repo ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-### 📈 Stats:
+<!-- ### 📈 Stats:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Stroller15&show_icons=true&hide_border=true&theme=radical" />
@@ -115,7 +115,7 @@ Feel open to strike up conversations about anything tech-related or explore pote
 <!--- -- Most language used ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-### 🔝 Most used languages:
+<!-- ### 🔝 Most used languages:
 <p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stroller15&layout=compact&hide_border=true&theme=radical" />
 </p>
