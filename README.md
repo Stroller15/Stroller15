@@ -123,7 +123,7 @@ Feel open to strike up conversations about anything tech-related or explore pote
 
 <hr>
 
-[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stroller15&theme=rogue)](https://github.com/Stroller15/github-readme-activity-graph)
+[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Stroller15&theme=rogue)](https://github.com/Stroller15/github-readme-activity-graph) -->
 
 
 
