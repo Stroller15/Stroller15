@@ -2,7 +2,7 @@
 <!--- -- Main headder with gif ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<h2> Howdy, intergalactic pals! Shubham Verma here, your coding comrade! Let's tech-tango together!  </h2>
+<h2> Howdy, intergalactic pals! Shubham Verma here, your coding comrade! </h2>
 
 
 Greetings, fellow humans and future AI overlords! As I stand on the precipice of graduating from the hallowed halls of computer science, I can't help but feel like a caffeinated code ninja ready to unleash a legion of bug-free software upon the world. They say laughter is the best medicine, but I'm here to prove that a well-written code comment can also do wonders for the soul.
