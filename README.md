@@ -4,6 +4,28 @@
 <h1 align="center">Hi fellow humans 👋, I'm Shubham</h1>
 <h3 align="center">A fullstack developer from earth who specializes in crafting web applications. I enjoy creating solutions that captivate users and thrive on projects that keep me learning and evolving constantly.</h3>
 
+<hr>
+<p align="center">
+  <a href="https://www.linkedin.com/in/a-shubham-verma/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/shubhamvtwt">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Stroller15">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;
+   <a href="https://www.instagram.com/shubham.yml/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+   </a>
+   &nbsp;
+   <a href="https://discordapp.com/users/771698347794497539">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
 
 <!-- Greetings, fellow humans and future AI overlords! As I stand on the precipice of graduating from the hallowed halls of computer science, I can't help but feel like a caffeinated code ninja ready to unleash a legion of bug-free software upon the world. They say laughter is the best medicine, but I'm here to prove that a well-written code comment can also do wonders for the soul.
 
