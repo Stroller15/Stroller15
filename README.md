@@ -1,11 +1,11 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Main headder with gif ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<h1 align="center">Hi fellow humans 👋, I'm Shubham</h1>
+<h3 align="center">A fullstack developer from earth who specializes in crafting web applications. I enjoy creating solutions that captivate users and thrive on projects that keep me learning and evolving constantly.</h3>
 
-<h2> Howdy, intergalactic pals! Shubham Verma here, your coding comrade! </h2>
 
-
-Greetings, fellow humans and future AI overlords! As I stand on the precipice of graduating from the hallowed halls of computer science, I can't help but feel like a caffeinated code ninja ready to unleash a legion of bug-free software upon the world. They say laughter is the best medicine, but I'm here to prove that a well-written code comment can also do wonders for the soul.
+<!-- Greetings, fellow humans and future AI overlords! As I stand on the precipice of graduating from the hallowed halls of computer science, I can't help but feel like a caffeinated code ninja ready to unleash a legion of bug-free software upon the world. They say laughter is the best medicine, but I'm here to prove that a well-written code comment can also do wonders for the soul.
 
 
 Feel open to strike up conversations about anything tech-related or explore potential collaborations on projects. My virtual door is always open for engaging discussions!
@@ -36,7 +36,7 @@ Feel open to strike up conversations about anything tech-related or explore pote
 <!--- -- Technical bages ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
- ### ⚡ Technical Skills & Tools:
+ <!-- ### ⚡ Technical Skills & Tools:
 
 <p>
   <a href="https://twitter.com/Verma_shubham9">
@@ -48,7 +48,7 @@ Feel open to strike up conversations about anything tech-related or explore pote
  <a href="https://twitter.com/Verma_shubham9">
     <img src="https://skillicons.dev/icons?i=github,git,postman,vscode,netlify,vercel,vite,replit" />
   </a> -->
-</p>
+<!-- </p>
 
 <hr>
 
@@ -84,7 +84,7 @@ Feel open to strike up conversations about anything tech-related or explore pote
  
 <!-- My Work Station  -->
 
-## 💻 Workspace:
+<!-- ## 💻 Workspace:
 
 ![macos](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -97,7 +97,7 @@ Feel open to strike up conversations about anything tech-related or explore pote
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Hactoberfest badges  ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
- 🏆 Hacktoberfest'22 badges
+<!-- 🏆 Hacktoberfest'22 badges
 [![An image of @stroller_15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stroller_15)](https://holopin.io/@stroller_15) 
 
 
@@ -107,7 +107,7 @@ Feel open to strike up conversations about anything tech-related or explore pote
 <!--- -- Statics of repo ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
- 📈 Stats:
+ <!-- 📈 Stats:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Stroller15&show_icons=true&hide_border=true&theme=radical" />
@@ -119,7 +119,7 @@ Feel open to strike up conversations about anything tech-related or explore pote
 <!--- -- Most language used ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
- 🔝 Most used languages:
+<!-- 🔝 Most used languages:
 <p align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stroller15&layout=compact&hide_border=true&theme=radical" />
 </p>
