@@ -4,7 +4,7 @@
 <h1 align="center">Hi fellow humans 👋, I'm Shubham</h1>
 <h3 align="center">A fullstack developer from earth who specializes in crafting web applications. I enjoy creating solutions that captivate users and thrive on projects that keep me learning and evolving constantly.</h3>
 
-<hr>
+<!--<hr>
 <p align="center">
   <a href="https://www.linkedin.com/in/a-shubham-verma/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
