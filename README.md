@@ -3,29 +3,30 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <h1 align="center">Hi fellow humans 👋, I'm Shubham</h1>
 <h3 align="center">A fullstack developer from Bharat who specializes in crafting web applications. I enjoy creating solutions that captivate users and thrive on projects that keep me learning and evolving constantly.</h3>
+<hr>
 
-<!--<hr>
 <p align="center">
   <a href="https://www.linkedin.com/in/a-shubham-verma/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="https://twitter.com/shubhamvtwt">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
   &nbsp;
-  <a href="https://github.com/Stroller15">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://discordapp.com/users/771698347794497539">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   &nbsp;
-   <a href="https://www.instagram.com/shubham.yml/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-   </a>
-   &nbsp;
-   <a href="https://discordapp.com/users/771698347794497539">
-    <img src="https://skillicons.dev/icons?i=discord" />
+  <a href="mailto:shubhamverma6351@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  &nbsp;
+  <a href="https://shubhamxtech.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
   </a>
 </p>
+
 
 <!-- Greetings, fellow humans and future AI overlords! As I stand on the precipice of graduating from the hallowed halls of computer science, I can't help but feel like a caffeinated code ninja ready to unleash a legion of bug-free software upon the world. They say laughter is the best medicine, but I'm here to prove that a well-written code comment can also do wonders for the soul.
 
