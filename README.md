@@ -6,7 +6,7 @@
 <hr>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/a-shubham-verma/" target="_blank">
+<!--   <a href="https://www.linkedin.com/in/a-shubham-verma/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
@@ -24,8 +24,28 @@
   &nbsp;
   <a href="https://shubhamxtech.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
-  </a>
+  </a> -->
+  <a href="https://twitter.com/shubhamvtwt">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+</a>&ensp;
+<a href="https://www.linkedin.com/in/a-shubham-verma/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>&ensp;
+<!-- <a href="https://www.youtube.com/c/ApoorvGoyalMain">
+    <img width="30px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
+</a>&ensp; -->
+<a href="https://www.instagram.com/shubham.yml/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+</a>&ensp;
+<a href="https://shubhamxtech.hashnode.dev/">
+    <img width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+</a>&ensp;
+<a href="https://github.com/Stroller15">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
+</a>
 </p>
+
+
 
 
 <!-- Greetings, fellow humans and future AI overlords! As I stand on the precipice of graduating from the hallowed halls of computer science, I can't help but feel like a caffeinated code ninja ready to unleash a legion of bug-free software upon the world. They say laughter is the best medicine, but I'm here to prove that a well-written code comment can also do wonders for the soul.
