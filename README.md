@@ -6,23 +6,23 @@
 <hr>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/a-shubham-verma/">
+  <a href="https://www.linkedin.com/in/a-shubham-verma/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="https://twitter.com/shubhamvtwt">
+  <a href="https://twitter.com/shubhamvtwt" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
   &nbsp;
-  <a href="https://discordapp.com/users/771698347794497539">
+  <a href="https://discordapp.com/users/771698347794497539" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   &nbsp;
-  <a href="mailto:shubhamverma6351@gmail.com">
+  <a href="mailto:shubhamverma6351@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   &nbsp;
-  <a href="https://shubhamxtech.hashnode.dev/">
+  <a href="https://shubhamxtech.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
   </a>
 </p>
