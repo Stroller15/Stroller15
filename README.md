@@ -25,9 +25,6 @@
   <a href="https://shubhamxtech.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
   </a> -->
-  <a href="https://twitter.com/shubhamvtwt">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-</a>&ensp;
 <a href="https://www.linkedin.com/in/a-shubham-verma/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>&ensp;
@@ -36,6 +33,9 @@
 </a>&ensp; -->
 <a href="https://www.instagram.com/shubham.yml/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+</a>&ensp;
+     <a href="https://twitter.com/shubhamvtwt">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>&ensp;
 <a href="https://shubhamxtech.hashnode.dev/">
     <img width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
