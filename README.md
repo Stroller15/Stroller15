@@ -2,7 +2,7 @@
 <!--- -- Main headder with gif ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <h1 align="center">Hi fellow humans 👋, I'm Shubham</h1>
-<h3 align="center">A full-stack developer from Bharat specializing in solving real-world problems with technology.</h3>
+<h3 align="center">A full-stack developer from Bharat passionate in solving real-world problems with technology.</h3>
 <hr>
 
 <p align="center">
