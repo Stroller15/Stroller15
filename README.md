@@ -1,9 +1,21 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Main headder with gif ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<h1 align="center">Hi fellow humans 👋, I'm Shubham</h1>
-<h3 align="center">A full-stack developer from Bharat passionate in solving real-world problems with technology.</h3>
-<hr>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="30%"  height="30%" align="right">
+  <br><br>
+  <samp>
+    Hey!! I'm Shubham Verma :wave:
+    <br><br>
+    A full-stack developer from Bharat <br> passionate about solving <br> real-world problems with technology
+  </samp>
+</p>
+
+<p align="center"> 
+  <i> Let's connect and chat! :incoming_envelope: </i>
+</p>
+
 
 <p align="center">
 <!--   <a href="https://www.linkedin.com/in/a-shubham-verma/" target="_blank">
