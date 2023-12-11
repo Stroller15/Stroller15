@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="30%"  height="30%" align="right">
   <br><br>
   <samp>
-    Hey!! I'm Shubham Verma :wave:
+    Hey!! I'm <b>Shubham Verma</b> :wave:
     <br><br>
     A full-stack developer from Bharat <br> passionate about solving <br> real-world problems with technology
   </samp>
