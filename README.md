@@ -1,23 +1,52 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Main headder with gif ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- -- <!-- HEY YOU! SINCE YOU'RE HERE, WHY NOT STAR THIS REPO :) OK BYE ----------------------------------------------------------------------------------->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="30%"  height="30%" align="right">
-  <br><br>
-  <samp>
-    Hey!! I'm <b>Shubham Verma</b> :wave:
-    <br><br>
-    A full-stack developer from Bharat <br> passionate about solving <br> real-world problems with technology
-  </samp>
+  
+  > [!note]  
+  >  Hello, fellow humans! I'm <b>Shubham Verma</b> <br> <br>
+> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&color=813AD2&center=true&width=435&height=50&lines=I+am+a+software+engineer;+I+am+a+learning+enthusiast;+I+am+a+frontend+developer;+I+am+a+backend+developer)](https://git.io/typing-svg)
+  
 </p>
 
 <p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
+  
+  > [!important]  
+  > Let's connect and chat! :incoming_envelope: 
+  
+</p>
+
+<p >
+<a href="https://www.linkedin.com/in/a-shubham-verma/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>&ensp;
+<a href="https://www.instagram.com/shubham.yml/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+</a>&ensp;
+     <a href="https://twitter.com/shubhamvtwt">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+</a>&ensp;
+<a href="https://shubhamxtech.hashnode.dev/">
+    <img width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+</a>&ensp;
+<a href="https://github.com/Stroller15">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
+</a>
 </p>
 
 
-<p align="center">
+
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- This is for future ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+
 <!--   <a href="https://www.linkedin.com/in/a-shubham-verma/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -37,25 +66,11 @@
   <a href="https://shubhamxtech.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
   </a> -->
-<a href="https://www.linkedin.com/in/a-shubham-verma/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a>&ensp;
+
 <!-- <a href="https://www.youtube.com/c/ApoorvGoyalMain">
     <img width="30px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
 </a>&ensp; -->
-<a href="https://www.instagram.com/shubham.yml/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-</a>&ensp;
-     <a href="https://twitter.com/shubhamvtwt">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-</a>&ensp;
-<a href="https://shubhamxtech.hashnode.dev/">
-    <img width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
-</a>&ensp;
-<a href="https://github.com/Stroller15">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
-</a>
-</p>
+
 
 
 
