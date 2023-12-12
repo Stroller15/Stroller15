@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="30%"  height="30%" align="right">
   
   > [!note]  
-  >  Hello, fellow humans! I'm <b>Shubham Verma</b> <br> <br>
+  >  HELLO, FELLOW HUMANS! I'M <b>SHUBHAM VERMA</b> <br> <br>
 > [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&color=00FF00&center=true&width=435&height=50&lines=I+am+a+software+engineer;+I+am+a+learning+enthusiast;+I+am+a+frontend+developer;+I+am+a+backend+developer)](https://git.io/typing-svg)
   
 </p>
