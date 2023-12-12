@@ -9,7 +9,7 @@
   
   > [!note]  
   >  Hello, fellow humans! I'm <b>Shubham Verma</b> <br> <br>
-> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&color=813AD2&center=true&width=435&height=50&lines=I+am+a+software+engineer;+I+am+a+learning+enthusiast;+I+am+a+frontend+developer;+I+am+a+backend+developer)](https://git.io/typing-svg)
+> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&color=00FF00&center=true&width=435&height=50&lines=I+am+a+software+engineer;+I+am+a+learning+enthusiast;+I+am+a+frontend+developer;+I+am+a+backend+developer)](https://git.io/typing-svg)
   
 </p>
 
