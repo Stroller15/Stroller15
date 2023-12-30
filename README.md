@@ -2,9 +2,9 @@
 <!--- -- <!-- HEY YOU! SINCE YOU'RE HERE, WHY NOT STAR THIS REPO :) OK BYE ----------------------------------------------------------------------------------->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+Just a noob with a hunger for learning and building more and more in the tech field!
 
-
-<p align="center">
+<!--<p align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="30%"  height="30%" align="right">
   
   > [!note]  
