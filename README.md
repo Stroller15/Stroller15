@@ -2,7 +2,7 @@
 <!--- -- <!-- HEY YOU! SINCE YOU'RE HERE, WHY NOT STAR THIS REPO :) OK BYE ----------------------------------------------------------------------------------->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<p>Documenting my tech journey here!</p>
+## <p>Documenting my tech journey here!</p>
 
 <!--<p align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="30%"  height="30%" align="right">
