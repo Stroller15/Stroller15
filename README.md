@@ -4,6 +4,9 @@
 
 ### <p>Documenting my tech journey here!</p>
 
+> [!WARNING]  
+> You can see many incomplete projects here; they are all a result of my learnings and curiosity.
+
 <!--<p align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="30%"  height="30%" align="right">
   
