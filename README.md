@@ -5,7 +5,7 @@
 ### <p>Documenting my tech journey here!</p>
 
 > [!WARNING]  
-> Perhaps you may see many incomplete projects here; they are all a result of my learnings and curiosity.
+> You may see many incomplete projects here; they are all a result of my learnings and curiosity.
 
 <!--<p align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="30%"  height="30%" align="right">
