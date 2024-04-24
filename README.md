@@ -2,10 +2,20 @@
 <!--- -- <!-- HEY YOU! SINCE YOU'RE HERE, WHY NOT STAR THIS REPO :) OK BYE ----------------------------------------------------------------------------------->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+# Hello, I'm Shubham
+
+![Purple Minimalist Brush Personal LinkedIn Banner (3)](https://github.com/Stroller15/Stroller15/assets/84174011/c322668b-ccaf-4c32-8ba3-f3df59a83473)
+
 ### <p>Documenting my tech journey here!</p>
 
 > [!WARNING]  
 > You may see many incomplete projects here; they are all a result of my learnings and curiosity.
+
+<br>
+
+
+
+
 
 <!--<p align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="30%"  height="30%" align="right">
