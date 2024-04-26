@@ -4,7 +4,7 @@
 
 # Hello, I'm Shubham
 
-![Purple Minimalist Brush Personal LinkedIn Banner (3)](https://github.com/Stroller15/Stroller15/assets/84174011/c322668b-ccaf-4c32-8ba3-f3df59a83473)
+<!--![Purple Minimalist Brush Personal LinkedIn Banner (3)](https://github.com/Stroller15/Stroller15/assets/84174011/c322668b-ccaf-4c32-8ba3-f3df59a83473)-->
 
 ### <p>Documenting my tech journey here!</p>
 
