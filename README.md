@@ -17,7 +17,7 @@
 
 ### Currently working with the technologies listed below but open to learning and exploring all areas
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,golang,react,nextjs,theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,golang,react,nextjs,theme=dark)](https://skillicons.dev)
 <!-- ## My Coding Activity Over Last 7 days
 
 ![WakaTime Stats](https://wakatime.com/share/@stroller/14858090-5b65-4867-8f82-b90bdf241f62.svg)
