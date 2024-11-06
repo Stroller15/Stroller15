@@ -15,9 +15,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stroller15&layout=compact)
 
-### Currently working with the technologies listed below but open to learning and exploring all areas
+### Currently working with the tools/technologies listed below but always excited to learn and explore new areas
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,golang,react,nextjs,theme=dark)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,typescript,nodejs,golang,react,nextjs,reactnative,mongodb,postgres)
 <!-- ## My Coding Activity Over Last 7 days
 
 ![WakaTime Stats](https://wakatime.com/share/@stroller/14858090-5b65-4867-8f82-b90bdf241f62.svg)
