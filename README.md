@@ -20,7 +20,7 @@
 
 <div align="center">
   
-### Currently working with the tools/technologies listed below but always excited to learn and explore new areas
+### Currently working with the technologies listed below but always excited to learn and explore new areas
   
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,typescript,nodejs,golang,react,nextjs,reactnative,mongodb,postgres)
 </div>
