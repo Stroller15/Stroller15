@@ -10,7 +10,7 @@
 <br />
 <br />
 
-<div align="center">
+<!--<div align="center">
   <h2>Live Updates</h2>
 
 ![](https://komarev.com/ghpvc/?username=Stroller15&color=2A7FBA) [![wakatime](https://wakatime.com/badge/user/018cea7d-2a89-45e2-961f-da7c5046bd0a.svg)](https://wakatime.com/@018cea7d-2a89-45e2-961f-da7c5046bd0a)
