@@ -13,8 +13,8 @@
 <div align="center">
   <h2 style="color: white;">Live Updates</h2>
   
-![](https://komarev.com/ghpvc/?username=Stroller15&color=00FF00&label=Profile+Views&style=flat-square&labelColor=000000&textColor=FFFFFF) [![wakatime](https://wakatime.com/badge/user/018cea7d-2a89-45e2-961f-da7c5046bd0a.svg?style=flat-square&color=00FF00&label=Wakatime)](https://wakatime.com/@018cea7d-2a89-45e2-961f-da7c5046bd0a)
-</div>
+![](https://komarev.com/ghpvc/?username=Stroller15&color=90EE90&label=Profile+Views&style=flat-square&labelColor=000000&textColor=000000) [![wakatime](https://wakatime.com/badge/user/018cea7d-2a89-45e2-961f-da7c5046bd0a.svg?style=flat-square&color=90EE90&label=Wakatime)](https://wakatime.com/@018cea7d-2a89-45e2-961f-da7c5046bd0a)
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stroller15&show_icons=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00&layout=compact&langs_count=6" alt="Top Languages">
