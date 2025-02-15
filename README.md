@@ -10,9 +10,7 @@
     <img src="https://wakatime.com/badge/user/018cea7d-2a89-45e2-961f-da7c5046bd0a.svg?style=flat-square" alt="Wakatime">
   </a>
 </p>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stroller15&theme=tokyonight" alt="GitHub Streak">
-</div>
+
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -40,6 +38,11 @@ const shubham = {
 };
 ```
 
+<!-- 
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stroller15&theme=tokyonight" alt="GitHub Streak">
+</div>
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -47,7 +50,6 @@ const shubham = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stroller15&show_icons=true&theme=tokyonight&count_private=true" />
 </div>
 
-<!-- 
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
@@ -68,7 +70,7 @@ const shubham = {
   </a>
 </p>
 
--->
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stroller15&theme=tokyo-night" alt="Contribution Graph" />
