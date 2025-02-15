@@ -47,6 +47,7 @@ const shubham = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stroller15&show_icons=true&theme=tokyonight&count_private=true" />
 </div>
 
+<!-- 
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
@@ -66,6 +67,8 @@ const shubham = {
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+-->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stroller15&theme=tokyo-night" alt="Contribution Graph" />
