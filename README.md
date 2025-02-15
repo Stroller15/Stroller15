@@ -1,29 +1,73 @@
-<h1 align="center">Hi fellow humans <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Shubham 🥳</h1>
-<br />
-<br />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+World!+%F0%9F%91%8B;I+am+Shubham+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" />
+</h1>
+<p align="center">
+  <a href="https://github.com/Stroller15">
+    <img src="https://img.shields.io/github/followers/Stroller15?label=Followers&style=social" alt="GitHub followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Stroller15&color=90EE90&label=Profile+Views&style=flat-square" alt="Profile Views">
+  <a href="https://wakatime.com/@018cea7d-2a89-45e2-961f-da7c5046bd0a">
+    <img src="https://wakatime.com/badge/user/018cea7d-2a89-45e2-961f-da7c5046bd0a.svg?style=flat-square" alt="Wakatime">
+  </a>
+</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stroller15&theme=tokyonight" alt="GitHub Streak">
+</div>
+
+<h2 align="center">🚀 About Me</h2>
+
+```typescript
+const shubham = {
+    pronouns: "He" | "Him",
+    location: "India 🇮🇳",
+    currentFocus: "Building scalable applications",
+    funFact: "I debug with console.log and I'm proud of it 😄",
+    
+    technologies: {
+        frontend: {
+            js: ["TypeScript", "React", "Next.js"],
+            css: ["Tailwind", "Styled-Components"],
+            testing: ["Jest", "React Testing Library"]
+        },
+        backend: {
+            languages: ["Node.js", "Go"],
+            databases: ["MongoDB", "PostgreSQL"],
+            cloud: ["AWS", "Vercel"]
+        },
+        tools: ["Git", "Docker", "Kubernetes"],
+        currentlyLearning: ["System Design", "AWS Services"]
+    }
+};
+```
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stroller15&show_icons=true&theme=tokyonight&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stroller15&show_icons=true&theme=tokyonight&count_private=true" />
+</div>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,go,aws,mongodb,postgres&theme=dark" />
+</div>
+
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <img width='48px' height='48px' src='https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif' />
-  <br />
-  <img width='150px' height='40px' src='one-moment-please.svg' />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-<br />
-<br />
 
 <div align="center">
-  <h2 style="color: white;">Live Updates</h2>
-  
-![](https://komarev.com/ghpvc/?username=Stroller15&color=90EE90&label=Profile+Views&style=flat-square&labelColor=000000&textColor=000000) [![wakatime](https://wakatime.com/badge/user/018cea7d-2a89-45e2-961f-da7c5046bd0a.svg?style=flat-square&color=90EE90&label=Wakatime)](https://wakatime.com/@018cea7d-2a89-45e2-961f-da7c5046bd0a)
-
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stroller15&show_icons=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00&layout=compact&langs_count=6" alt="Top Languages">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stroller15&count_private=true&show_icons=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00" alt="GitHub Stats">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stroller15&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
-<div align="center">
-  
-### Currently working with these technologies but always excited to learn and explore new areas
-  
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,nodejs,golang,mongodb,postgres,aws,react,nextjs&color=2A7FBA)
-</div>
