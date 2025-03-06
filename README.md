@@ -1,3 +1,3 @@
-# Hey! 👋🏼 I'm Shubham  
+# hey! 👋🏼 i'm shubham  
 
-I'm a software engineer who loves solving problems with code. When I'm not coding, I enjoy talking with like-minded techies and playing chess and badminton. I primarily code in JavaScript and TypeScript, but I'm not limited to them.
+i'm a software engineer who loves solving problems with code. when i'm not coding, i enjoy talking with like-minded techies and playing chess and badminton. i primarily code in javascript/typescript, but i'm not limited to them. i am curious about ai agents and web3 and am exploring their intersection to learn and build.
